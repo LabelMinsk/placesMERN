@@ -1,4 +1,5 @@
 # This project developed on MERN Stack
+[![Build Satus](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/LabelMinsk/placesMERN)
 
 # You will see:
 ## Frontend

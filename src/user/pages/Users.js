@@ -8,8 +8,15 @@ const Users = () => {
       id: '1',
       name: 'Mikhail',
       image:
-        'https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+        'https://clck.ru/QdqP2',
       places: 3
+    },
+    {
+      id: '2',
+      name: 'Stepan',
+      image:
+        'https://clck.ru/R3FkU',
+      places: 5
     }
   ];
 
