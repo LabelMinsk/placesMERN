@@ -40,6 +40,10 @@ const NewPlace = () => {
         value: '',
         isValid: false,
       },
+      address: {
+        value: '',
+        isValid: false,
+      },
     },
     isValid: false
   });
@@ -80,6 +84,7 @@ const NewPlace = () => {
       <Input
         id="address"
         element="input"
+        type="text"
         label="Address"
         //if you need more rows. set in props "rows=4" or any
         validators={[VALIDATOR_REQUIRE()]}

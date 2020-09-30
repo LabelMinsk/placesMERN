@@ -18,12 +18,12 @@ For work this project you need:
 
 **React Technology**
 
-- Navigation
-- Stateful components
-- Portals
-- Dynamic Route
-- Rendering a Map with Google Maps
-- Added input validation
+- ~~Navigation~~
+- ~~Stateful components~~
+- ~~Portals~~
+- ~~Dynamic Route~~
+- ~~Rendering a Map with Google Maps~~
+- ~~Added input validation~~
 - Proper Error Handling
 - Using & Attaching JWT (Tokens)
 - ...
