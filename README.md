@@ -1,4 +1,6 @@
-# This project developed on MERN Stack
+# **🚀️  in progress**
+
+## This project developed on MERN Stack and is not exist redux, another logic.
 
 [![Build Satus](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/LabelMinsk/placesMERN)
 

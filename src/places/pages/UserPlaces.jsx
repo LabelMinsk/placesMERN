@@ -29,7 +29,20 @@ const DUMMY_PLACES = [
           lng: 36.8251409
         },
         creator: '2'
-      }
+      },
+      {
+        id: '3',
+        title: 'Minsk2',
+        description: 'The capital of Republic of Belarus!',
+        imageUrl:
+          'https://clck.ru/R7xpT',
+        address: 'Center of Europe',
+        location: {
+          lat: 53.8847208,
+          lng: 27.5233292
+        },
+        creator: '1'
+      },
 ];
 
 const UserPlaces = (props) =>{
