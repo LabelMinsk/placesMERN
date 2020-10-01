@@ -24,7 +24,7 @@ For work this project you need:
 - ~~Dynamic Route~~
 - ~~Rendering a Map with Google Maps~~
 - ~~Added input validation~~
-- Custom HOOK
+- ~~Custom HOOK~~
 - Proper Error Handling
 - Using & Attaching JWT (Tokens)
 - ...
